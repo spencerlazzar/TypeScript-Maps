@@ -1,4 +1,4 @@
-#Maps
+# Maps
 
 The main focus for this application is practicing inferfaces and classes with TypeScript.
 
