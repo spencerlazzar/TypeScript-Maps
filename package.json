@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/spencerlazzar/TypeScript-Maps#readme",
   "dependencies": {
-    "@types/faker": "^5.1.5"
+    "@types/faker": "^5.1.5",
+    "@types/googlemaps": "^3.43.2"
   }
 }
